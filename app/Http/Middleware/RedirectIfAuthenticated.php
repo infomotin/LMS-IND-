@@ -80,7 +80,7 @@ class RedirectIfAuthenticated
         //     }
         // }
 
-        return '/';
+        return '/dashboard';
     }
 
     /**
